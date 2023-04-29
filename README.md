@@ -4,4 +4,4 @@ test-repo
   This is a test repo.
 
 
-![A Test Image](/test-repo/assets/test-image.png)
+![A Test Image](/test-repo/docs/assets/test-image.png)
