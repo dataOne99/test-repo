@@ -4,4 +4,4 @@ test-repo
   This is a test repo.
 
 
-![A Test Image](/test-repo/assets/test-image.png)
+![A Test Image](https://github.com/dataOne99/test-repo/blob/master/assets/test-image.png)
