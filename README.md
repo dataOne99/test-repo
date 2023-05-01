@@ -1,4 +1,4 @@
-test-repo
+Cs539: Machine Learning
 =========
 # Project Final
 
