@@ -23,6 +23,7 @@ Data locations:
 The analysis included feature engineering, four types of regression models, and various performance evaluations for the models. The percentage of young adults (20-24), an added feature, became a predictor variable in this study. The raw data for the GDP per capita and Life Expectancy were also features added. The four regression models chosen 
 were: simple Linear regressor, Ridge regressor, Gradient boosting regressor and Random Forest regressor. The first approach was to begin with a simple model and observe the results. An ensemble approach was chosen for the second and third models. The Ridge regression model was added since it handles independent variables that are highly correlated. Since, the GDP per capita and the Life Expectancy variables were highly correlated. The cross-validation score was used for the comparison of the models.  A comparison of the models was illustrated by box plots as well. The Random Forest regressor model performed the best on the data. 
 
+![A Image](/assets/boxplot.png)
 
 ## Conclusion
 We see a minor change when the percent youth feature is removed from the four models. In this study, the percentage of youth has negligible influence on the country’s happiness score. Though this study was not able to show a strong causal relationship between young adults and a happiness score, there will be more young adults worldwide as the world population ages. Their happiness/well-being will certainly have a profound effect on the world stage.
