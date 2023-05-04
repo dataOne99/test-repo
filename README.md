@@ -1,12 +1,15 @@
 Cs539: Machine Learning
 =========
 # Project Final - World Happiness
+
 ## OVERVIEW
 With the advent of the internet, cell phones, computers, and air travel. We see that the world view is becoming smaller. Issues in one country can have an impact on a neighboring country or a country across the ocean. An unhappy country can affect their internal stability as well as the world. It is therefore important to understand what affects the happiness of a country. Third World countries are most vulnerable in the happiness arena. This is why this study will concentrate on these countries and how young people affect the overall happiness of a country. Third World countries have a higher and increasing population of young adults. Data for this study was collected from the Databank World Bank Org. The study undertaken used machine learning regression models to answer the question whether more young adults in a country can predict a higher happiness score for the country. Though there was indication that the percentage of young adults did affect the happiness  score of a country, this affect was less than 10%.
 
 ## Project Description
+
 MOTIVATION
 Third World countries have a higher and increasing population of young adults. Nigeria has 1 of the largest megacities in the world with an infrastructure that is failing to keep pace with the explosive growth. The world population is expected to grow to 9.9 billion by 2050 [ref 9]. The question that looms is “how will the world cope with this massive population.” The advent of the World Happiness survey is an attempt to try to get a handle on what makes a country happy and hopefully this will translate to the country’s stability. This is an issue that affects all living on spaceship - earth. This study looks at how young adults affect a country’s happiness score. 
+
 AIMS
 The goal was to determine if there was a causal relationship between the increase in the number of young adults (20 – 24) in countries deemed low-income (GDP < 1.0 from the Happiness Survey), and their respective country’s happiness score in the World’s Happiest Survey in the period  from 2015 – 2019 ? If more young people increase the happiness in a country, it is probable that these countries will experience stability which would lead to growth and prosperity for their citizens.
 
